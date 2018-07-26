@@ -1,4 +1,4 @@
-# timers
+# vue-ringo-timers
 
 ## Project setup
 ```
